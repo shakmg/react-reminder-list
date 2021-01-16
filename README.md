@@ -1,6 +1,7 @@
 ## Description
 
-A simple create-react-app example of using the useState hook. It populates static people data into the state, then cleared using the setPeople function on a button action.
+A simple create-react-app course example of using the useState hook. It populates static people data into the state, then cleared using the setPeople function on a button action.
+
 ## Idea
 
 Design credit
